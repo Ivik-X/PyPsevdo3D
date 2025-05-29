@@ -8,8 +8,8 @@ FPS = 60
 # Настройки игрока
 PLAYER_SPEED = 3
 ROTATION_SPEED = 0.05
-PLAYER_START_X = 500
-PLAYER_START_Y = 400
+PLAYER_START_X = 200
+PLAYER_START_Y = 200
 
 # Настройки рендера
 FOV = 90  # Поле зрения в градусах
